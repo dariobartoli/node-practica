@@ -1,0 +1,11 @@
+se puede instalar el module de nodemon, para que siempre se esté actualizando la consola con los cambios que surjan en node, js
+
+instalar : npm install nodemon -D   
+-D    => es para que se instale en la parte de devDependecias(dependencias que facilitan al desarrollador a la hora de programar)
+
+
+
+express, es de los frameworks mas utilizados, o nest.js
+
+
+como deployar proyectos de node.js en forma gratuita
